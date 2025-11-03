@@ -15,5 +15,5 @@
 
 <br>
 
-_In my free time, I love watching movies and learning new things_
+_In my free time, I love watching movies and learning new things_ <br>
 https://abhinayjangde.dev
