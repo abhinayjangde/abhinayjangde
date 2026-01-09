@@ -8,5 +8,5 @@
 - 📝 I write blogs on [codebhaiya.com](https://www.codebhaiya.com)
   
 
-_In my free time, I love watching movies and learning new things_ <br>
+_In my free time, I love watching `movies` and `learning` new things_ <br>
 https://abhinayjangde.dev
