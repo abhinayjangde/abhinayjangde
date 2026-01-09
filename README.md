@@ -1,4 +1,3 @@
-# WHOAMI
 ## I'm a Full-Stack Software Engineer
 - 🌱 I’m currently focusing on building projects
 - 📫 How to reach me **ahinayjangde@gmail.com** 
