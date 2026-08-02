@@ -1,3 +1,7 @@
-I'm a Full-Stack Software Engineer from India passionate about building scalable web applications, AI-powered products, and developer tools. I enjoy solving real-world problems using modern technologies like Next.js, Node.js, TypeScript, PostgreSQL, FastAPI, and Docker.
+Hello there!👋 I'm a passionate and dedicated full stack web developer.I build a platform where we provide premium Blogs, Coding and IT courses. I have experience of building full stack scalable web applications.
 
-I also create educational content on YouTube, write technical blogs at CodeBhaiya, and continuously explore System Design, Distributed Systems, and Generative AI.
+I hava greate understanding and knowledge on this technologies HTML, CSS, Javascript, TypeScript, Nodejs, Expressjs, Reactjs, Nextjs, MongoDB, MySQL, PostgresSQL, TailwindCSS, Python, C/C++, Apache Kafka, Redis and more frameworks and libraries.
+
+I'm comfortable on working with Linux, Mac and Windows. I have good know of Cloud Intrastructre like AWS, Digital Ocean, Azure etc. I'm also interested in Cyber Security I have some knowledges on this fields but my main focus is on developing web applications.
+
+In my free time I love watching movies.
