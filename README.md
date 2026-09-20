@@ -11,6 +11,6 @@ I'm comfortable on working with Linux, Mac and Windows. I have good know of Clou
 🌱 Currently learning: **Go Lang**, **System Design**, **DevOps** <br/>
 🎬 Fun fact: I love watching movies in my free time! <br/>
 
-![A descriptive alt text](https://yt3.googleusercontent.com/4NvbGAg8DBq52AJpg4nYumqogyS9dbXhkGpsvAwLVezIA-qkzzKqXOvMkxqR5qNzqm8gAWAnVg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![A descriptive alt text](https://yt3.googleusercontent.com/7yx7dtj4YUO10Ga5jbQhK1ABh6qJAwSBNAJqu8NX4iBttwCNNuJ3TQ7vyKZbS3y8j5wM1SRAKg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 [abhinayjangde](https://abhinayjangde.dev) [chat](https://chat.codebhaiya.com) [spread](https://spread.codebhaiya.com) [codebhaiya](https://codebhaiya.com)
