@@ -1,4 +1,4 @@
-Hello there!👋
+hello there!👋
 
 I'm a passionate and dedicated full stack web developer.I build a platform where we provide premium Blogs, Coding and IT courses. I have experience of building full stack scalable web applications.
 
